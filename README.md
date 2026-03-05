@@ -16,6 +16,12 @@ Abaixo, a estrutura de tópicos gerada para organizar a vasta gama de fontes uti
 </p>
 
 ---
+## 🛠️ Tecnologias Utilizadas
+- **Modelo:** `Llama-2-70b` via `Replicate API`.
+- **Ambiente de Desenvolvimento:** `Google Colab` (`Python`).
+- **Framework:** `LangChain` (para invocação do modelo).
+- **Técnica:** `Prompt Templating` com variáveis dinâmicas `{}`.
+---
 
 ## 📋 Metodologia e Ferramentas
 Para transformar dados brutos em conhecimento estruturado, utilizei os seguintes recursos do NotebookLM:
